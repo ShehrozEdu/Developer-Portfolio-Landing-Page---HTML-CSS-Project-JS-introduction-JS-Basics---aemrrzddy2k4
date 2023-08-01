@@ -54,6 +54,7 @@ h1{
 .black-box-section h3 {
     font-size: 80px;
     font-weight: 400;
+    text-transform: capitalize;
 }
 .black-box-section span {
     font-size: 96px;
